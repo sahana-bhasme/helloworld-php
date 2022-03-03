@@ -1,6 +1,6 @@
 <?php
 
-namespace Hello;
+namespace Hello\Bar;
 
 class Bar {
     public function toString() {
